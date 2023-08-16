@@ -20,7 +20,6 @@ Diabetes is a chronic disease that occurs when the pancreas is no longer able to
 - BMI :- Body Mass Index ((weight in kg/height in m)^2)
 - Age :- Age(years)
 - DiabetesPedigreeFunction:-scores likelihood of diabetes based on family history)
-- Outcome :- 0(doesn't have diabetes) or 1 (has diabetes)
 
 ## Technology and Tools Used:
 1. Python
